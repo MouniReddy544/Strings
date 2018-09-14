@@ -1,0 +1,9 @@
+function string()
+{
+
+str1="aaaa"
+str2="baaa"
+var n = str1.localeCompare(str2);
+console.log(n)
+}
+string();
