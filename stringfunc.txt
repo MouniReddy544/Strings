@@ -1,0 +1,3 @@
+fill(n)- replaces the array with n value
+charCodeAt()- converts character to ASCII  value
+fromCharCode()-converts ASCII values to characters
